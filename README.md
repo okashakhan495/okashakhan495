@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for-business.jpg)
+![MasterHead](https://previews.123rf.com/images/varijanta/varijanta1604/varijanta160400067/55847726-modern-thin-line-design-concept-for-analysis-website-banner-vector-illustration-concept-for-business.jpg)
 <h1 align="center">Hi 👋, I'm Okasha Khan</h1>
 <h3 align="center">Data Analyst | Make Data to confess Insights</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/data-analyst-sits-work-front-computer-device-showing-statistics-graphs-front-him-flat-style-cartoon-illustration-vector_610956-825.jpg">
